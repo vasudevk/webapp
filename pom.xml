@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.web</groupId>
-	<artifactId>pets</artifactId>
+	<artifactId>books</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>pets</name>
+	<name>books</name>
 	<description>Spring Boot Web Application</description>
 
 	<properties>
