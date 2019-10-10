@@ -1,13 +1,13 @@
-package io.web.pets;
+package io.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PetsApplication {
+public class BookApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PetsApplication.class, args);
+		SpringApplication.run(BookApplication.class, args);
 	}
 
 }

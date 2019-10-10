@@ -1,4 +1,4 @@
-package io.web.pets.model;
+package io.web.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
